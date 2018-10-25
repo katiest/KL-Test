@@ -1,0 +1,86 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "A218E07D-9746-4A03-A5B7-F3B92894C09C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "14EF393A-2F10-4EBF-8B63-34E6D2889C25",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A00CCB5-E0B6-43BC-99DD-A16D8F2328BA",
+    "height": 7.399999999999976,
+    "width": 12,
+    "x": 4.36835867060563,
+    "y": 7.94879627462734
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "8D55D860-6A9F-46F8-8819-77B9729FE375"
+    }
+  ],
+  "name": "Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 92,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "6DEE9988-3470-4740-95D7-DE0B70DB83E2",
+      "opacity": 0.2624813051366094
+    },
+    "do_objectID": "E84ECB21-B86C-445E-A6CD-ED123C336F01",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6705882352941176,
+          "green": 0.5882352941176471,
+          "red": 0.5490196078431373
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "5A202072-6DDC-4089-A14E-4725E05A492F",
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.edenvidal.states-for-sketch": {
+      "x-states-state-values": {
+        "0A84F8D9-4749-4853-96D3-2D8A573AD3B4": {
+          "frame": "{{6.0000000000000018, 8.5999755859375}, {12.000000000000004, 7.3999999999999773}}",
+          "visible": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

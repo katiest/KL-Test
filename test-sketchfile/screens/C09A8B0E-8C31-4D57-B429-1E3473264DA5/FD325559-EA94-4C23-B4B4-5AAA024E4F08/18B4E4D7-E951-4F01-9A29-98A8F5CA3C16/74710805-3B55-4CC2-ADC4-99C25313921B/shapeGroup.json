@@ -1,0 +1,102 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "74710805-3B55-4CC2-ADC4-99C25313921B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "436EE216-CCF8-44E4-A94E-EB38FA50A198",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ED507086-6EC6-47A5-9642-B64363BDADEE",
+    "height": 64,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5F244BA2-02AC-48E0-861F-12B61C5E5A0A"
+    }
+  ],
+  "name": "Bar",
+  "nameIsFixed": true,
+  "originalObjectID": "9343405E-63B5-4524-9B2A-F11C179398CA",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "51DCA790-DE51-47A2-9271-CFD8C9BDD627",
+      "isEnabled": true,
+      "motionAngle": 0,
+      "radius": 10,
+      "type": 3
+    },
+    "do_objectID": "E8F59C9C-9B7C-49CA-8958-88187D784514",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.9,
+          "blue": 0.9803921568627451,
+          "green": 0.9803921568627451,
+          "red": 0.9803921568627451
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6980392156862745,
+          "green": 0.6980392156862745,
+          "red": 0.6980392156862745
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 0.5,
+        "spread": 0
+      }
+    ],
+    "sharedObjectID": "A75DBC00-2126-49DF-8C12-FA2D2052F545",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}
