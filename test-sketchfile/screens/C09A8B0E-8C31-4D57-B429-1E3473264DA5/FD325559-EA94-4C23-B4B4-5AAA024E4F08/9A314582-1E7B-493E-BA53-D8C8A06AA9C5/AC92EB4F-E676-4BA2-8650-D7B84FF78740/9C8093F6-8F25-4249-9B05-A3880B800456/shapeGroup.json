@@ -1,0 +1,83 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "9C8093F6-8F25-4249-9B05-A3880B800456",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4F80B8EA-03BB-4FDE-AE19-7D5D1D163B87",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F89F8C4B-7F75-4EBB-BC29-9A5C940EAB44",
+    "height": 5.5,
+    "width": 5.5,
+    "x": 28,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "070F8EAB-9C22-441D-975F-B2C345265510"
+    },
+    {
+      "class": "shapePath",
+      "id": "21D8BBB2-283C-43DD-A5E0-FEA85C9D5870"
+    }
+  ],
+  "name": "Circle",
+  "nameIsFixed": true,
+  "originalObjectID": "39D8E99E-12EC-4F89-A32F-18ED03B05334",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7C22BCCD-5E04-4355-8C3B-387DBCE9D7F0",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "25ACF102-4334-4807-AD87-C82341771889",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

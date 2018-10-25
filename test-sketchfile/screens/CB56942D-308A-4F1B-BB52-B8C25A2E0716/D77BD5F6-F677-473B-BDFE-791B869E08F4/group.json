@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "D77BD5F6-F677-473B-BDFE-791B869E08F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB53D080-3E82-4BBA-B638-A977E30F5C2D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "38E455AA-5ACC-49E6-86C9-13E137BDC33E",
+    "height": 24,
+    "width": 24,
+    "x": 16,
+    "y": 30
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0458DA19-CA19-4581-ADBA-848FC4651C15"
+    }
+  ],
+  "name": "Hamburger",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AC6B6B20-36BE-4CDC-9138-086456148649",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
