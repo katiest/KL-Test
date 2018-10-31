@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.9921568627,
-            "green": 0.6196078431,
-            "red": 0.5019607843
+            "blue": 0.1294117647058823,
+            "green": 0.4509803921568627,
+            "red": 0.9686274509803922
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Ubuntu-Medium",
+              "name": "NunitoSans-Regular",
               "size": 16
             }
           },
@@ -56,7 +56,7 @@
     "x": 122,
     "y": 4
   },
-  "glyphBounds": "{{0, 0}, {0, 0}}",
+  "glyphBounds": "{{1, 1}, {96, 15}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -91,14 +91,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9921568627,
-          "green": 0.6196078431,
-          "red": 0.5019607843
+          "blue": 0.1294117647058823,
+          "green": 0.4509803921568627,
+          "red": 0.9686274509803922
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Ubuntu-Medium",
+            "name": "NunitoSans-Regular",
             "size": 16
           }
         },
